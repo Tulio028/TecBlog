@@ -1,0 +1,121 @@
+body{
+	background-color: #DCDCDC;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+	margin: 0em;
+}
+
+span{
+	color: white;
+}
+
+a{
+	text-decoration: none;
+	margin: 1em;
+	padding: 5px;
+	color: white;
+}
+
+a:hover{
+	background-color: white;
+	color: #FFD700;
+}
+
+p{
+	margin: 0px;
+}
+
+img{
+	width: 43em;
+}
+
+h2{
+	background-color: #C0C0C0;
+	margin: 0px 0px 0px 0px;
+}
+
+h3{
+	margin: 8px;
+}
+
+#cabeçalho{
+	background-color: #FFD700;
+	text-align: center;
+	padding: 1.5em;
+	float: center;
+}
+
+#noticia-1{
+	inline-size: 700px;
+	background-color: white;
+	margin: 15px 10px 15px 200px;
+	padding: 1px 20px;
+	float: left;
+	clear: left;
+}
+
+#noticia-2{
+	inline-size: 700px;
+	background-color: white;
+	margin: 15px 10px 15px 200px;
+	padding: 1px 20px;
+	float: left;
+	clear: both;
+	display: block;
+}
+
+#noticias-lateral{
+	background-color: white;
+	inline-size: 300px;
+	margin: 15px;
+	padding: 10px;
+	float: left;
+}
+
+#noticias-lateral2{
+	background-color: white;
+	inline-size: 300px;
+	margin: 15px;
+	padding: 10px;
+	float: left;
+}
+
+#rodape{
+	background-color: #808080;
+	text-align: center;
+	padding: 8px;
+	margin: 10px 0px 0px 200px;
+	inline-size: 1070px;
+	float: center;
+	clear: both;
+}
+
+.logo{
+	font-size: 2.5em;
+	margin: 10px;
+}
+
+.titulo{
+	color: #FFD700;
+	margin: 10px 0px 0px 0px;
+}
+
+.data-postagem{
+	margin: 0px 0px 20px 0px;
+}
+
+.link-postagem-lateral{
+	color: #FFD700;
+	text-decoration: none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	display: block;
+}
+
+.link-postagem{
+	color: #FFD700;
+	text-decoration: none;
+	margin: 0px 0px 15px 0px;
+	padding: 0px;
+	display: block;
+}
